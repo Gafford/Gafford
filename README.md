@@ -12,8 +12,8 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=plastic">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/php-8A2BE2?style=plastic">
+  <img src="https://img.shields.io/badge/python-2b6dbf?style=plastic">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
