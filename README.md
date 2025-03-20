@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/python-2b6dbf?style=plastic">
   <img src="https://img.shields.io/badge/js-00b4ce?style=plastic">
   <img src="https://img.shields.io/badge/node-3C873A?style=plastic">
-  <img src="https://img.shields.io/badge/vue-33333D?style=plastic">
+  <img src="https://img.shields.io/badge/vue-0093ee?style=plastic">
 </div>
