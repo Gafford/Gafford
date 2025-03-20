@@ -14,10 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/php-8A2BE2?style=plastic">
   <img src="https://img.shields.io/badge/python-2b6dbf?style=plastic">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
-  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/js-00b4ce?style=plastic">
+  <img src="https://img.shields.io/badge/node-3C873A?style=plastic">
+  <img src="https://img.shields.io/badge/vue-33333D?style=plastic">
 </div>
