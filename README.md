@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ImCa0&show_icons=true&count_private=true&theme=buefy">](https://github.com/ImCa0)
-
-🙋‍♂️ I'm CaO.
+🙋‍♂️ I'm Gafford.
 
 👀 Just like the name of my profile.
 
