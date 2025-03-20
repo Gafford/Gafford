@@ -3,8 +3,8 @@
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Gafford
   </h1>
-   <p align="center">A programmer who doesn't feel like coding.👨‍💻</p>
-   <p align="center">I hope AI can replace humans as soon as possible.</p>
+   <p align="center">👨‍💻A programmer who doesn't feel like coding.👨‍💻</p>
+   <p align="center">🤖I hope AI can replace humans as soon as possible.🤖</p>
    <p align="center">💢Fuck off!</p>
 </p>
 
