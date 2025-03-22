@@ -22,4 +22,4 @@
 </div>
 <br/>
 <!-- <img src="./wallhaven-nre1g1.jpg"> -->
-<img src="https://image1.s3.bitiful.net/wallhaven-nre1g1.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Gafford/image/wallhaven-nre1g1.jpg">
