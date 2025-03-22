@@ -21,4 +21,5 @@
   <img src="https://img.shields.io/badge/vue-0093ee?style=plastic">
 </div>
 <br/>
-<img src="./wallhaven-nre1g1.jpg">
+<!-- <img src="./wallhaven-nre1g1.jpg"> -->
+<img src="https://image1.s3.bitiful.net/wallhaven-nre1g1.jpg">
