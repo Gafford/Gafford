@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/js-00b4ce?style=plastic">
   <img src="https://img.shields.io/badge/node-3C873A?style=plastic">
   <img src="https://img.shields.io/badge/vue-0093ee?style=plastic">
-  <img src="https://img.shields.io/badge/c++-0093ee?style=plastic">
+  <img src="https://img.shields.io/badge/c++-ad609f?style=plastic">
 </div>
 <br/>
 <!-- <img src="./wallhaven-nre1g1.jpg"> -->
